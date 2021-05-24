@@ -1,0 +1,11 @@
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\bin\Debug\BackEndChallenge.exe.config
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\bin\Debug\BackEndChallenge.exe
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\bin\Debug\BackEndChallenge.pdb
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.csprojAssemblyReference.cache
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.csproj.CoreCompileInputs.cache
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.exe
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.pdb
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.csproj.ResolveComReference.cache
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\HG Kim\Back-end Challenge\ItTrainee_BackEndChallenge\BackEndChallenge\BackEndChallenge\obj\Debug\BackEndChallenge.csproj.CopyComplete
